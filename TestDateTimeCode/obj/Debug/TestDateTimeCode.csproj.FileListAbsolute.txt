@@ -1,0 +1,6 @@
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\bin\Debug\TestDateTimeCode.exe.config
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\bin\Debug\TestDateTimeCode.exe
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\bin\Debug\TestDateTimeCode.pdb
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\obj\Debug\TestDateTimeCode.csprojResolveAssemblyReference.cache
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\obj\Debug\TestDateTimeCode.exe
+D:\Grom\Projects\TestDateTimeCode\TestDateTimeCode\obj\Debug\TestDateTimeCode.pdb
